@@ -1,1 +1,2 @@
-<h2> We are having a wonderful CI-CD session with Chandan </h2>
+<h2> Hello all </h2>
+<p> This is a CI CD test. This paragraph is nothing but a dummy one </p>
